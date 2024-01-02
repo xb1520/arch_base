@@ -1,0 +1,7 @@
+{
+    "name": "Arch Linux",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "postCreateCommand": "echo 'Welcome Arch Linux !!!'",
+    "remoteUser": "root"
+}
